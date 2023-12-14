@@ -1,0 +1,16 @@
+jupyter
+
+# Data Processing
+numpy
+pandas
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Classifiers
+scikit-learn
+xgboost
+
+# Data
+ucimlrepo
